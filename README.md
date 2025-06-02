@@ -15,7 +15,7 @@ Este proyecto permite explorar y visualizar mapas interactivos de países y prov
 - Uso de datos vectoriales (Shapefile) y procesamiento con GeoPandas.
 
 ## Estructura del proyecto
-```
+<pre lang="text">
 mapas_python/ 
 │ ├── mapas/ # Datos geográficos (Natural Earth) 
 │ ├── ne_110m_admin_0_countries_lakes.shp 
@@ -27,7 +27,7 @@ mapas_python/
 ├── mapa_poblacion.html # Mapa coroplético por población 
 ├── mapa_provincias_espana.html # Mapa interactivo de provincias de España 
 └── README.md # Este archivo
-```
+</pre>
 
 ## Instalación
 
