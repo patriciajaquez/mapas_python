@@ -20,7 +20,7 @@ mapas_python/
 │ ├── mapas/ # Datos geográficos (Natural Earth) 
 │ ├── ne_110m_admin_0_countries_lakes.shp 
 │ └── ne_10m_admin_1_states_provinces/ 
-│ └── ne_10m_admin_1_states_provinces.shp 
+│     └── ne_10m_admin_1_states_provinces.shp 
 ├── mapas.ipynb # Notebook principal con el código de análisis y visualización 
 ├── mapa.html # Mapa mundial interactivo 
 ├── mapa_espana.html # Mapa interactivo de España 
